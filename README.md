@@ -1,11 +1,19 @@
-- 👋 Hi, I’m @Poojasri
-- 👀 I’m interested in developing
-- - 🌱 I’m currently learning artificial intelligence and machine learning
-- 📫 to reach email me- poojasrikumar006@gmail.com
-- 😄 Pronouns: female
-- ⚡ fact:you never know your worth untill others makes you to know
+👩‍💻 Poojasri Kumar | AI & ML Engineer (Fresher)
 
-<!---
-Poojasri06/Poojasri06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 B.Sc. Artificial Intelligence & Machine Learning — Vivekanandha College, 2026
+🔬 Research: Deepfake Detection using CNN | 94.2% accuracy
+💼 4 Internships | AI Research · ML · Full-Stack · Testing
+📍 Tamil Nadu, India
+
+🛠️ Skills
+Languages: Python, SQL
+Frameworks: TensorFlow, PyTorch, OpenCV, Flask, FastAPI
+Domains: Computer Vision, NLP, Generative AI (RAG)
+
+🚀 Featured Projects
+- Celeste-Map: Threat intelligence & account profiling platform
+- Hand Speak: Sign language to text/audio using AI
+- Aura Derm: AI skincare recommendation system
+- RAG Q&A Assistant: Generative AI document Q&A
+
+📫 Connect: linkedin.com/in/pooja-sri-b25053286
