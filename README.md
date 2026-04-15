@@ -16,4 +16,4 @@ Domains: Computer Vision, NLP, Generative AI (RAG)
 - Aura Derm: AI skincare recommendation system
 - RAG Q&A Assistant: Generative AI document Q&A
 
-📫 Connect: linkedin.com/in/pooja-sri-b25053286
+📫 Connect: linkedin.com/in/poojasrikumar06
