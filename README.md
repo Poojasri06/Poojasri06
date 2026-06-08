@@ -138,6 +138,8 @@ print(me.motto())
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Poojasri06&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
+  ![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2FAnthropic-AI%2520Fluency-5A67D8)
+
 </div>
 
 ---
