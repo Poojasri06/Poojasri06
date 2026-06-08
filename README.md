@@ -138,8 +138,7 @@ print(me.motto())
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Poojasri06&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
-  ![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2FAnthropic-AI%2520Fluency-5A67D8)
-
+  ![Anthropic](https://img.shields.io/badge/Anthropic-AI%20Fluency%20for%20Students-5A67D8?style=flat-square&logo=anthropic&logoColor=white)
 </div>
 
 ---
@@ -227,6 +226,7 @@ print(me.motto())
 | 🔗 | **LangChain & Vector Databases** | Hands-on Project Certification |
 | 🏢 | **4 Industry Internships** | AI/ML Research · AI Development · ML · Full-Stack (2025–2026) |
 | 🚀 | **Founder, IGNIQ Solutions** | Independent AI/ML freelance services brand |
+| 🤖 | **AI Fluency for Students** | Anthropic · in collaboration with UCC, Ringling College, HEA & National Forum |
 
 </div>
 
