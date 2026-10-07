@@ -134,9 +134,7 @@ print(me.motto())
 ## 📈 Activity Graph
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Poojasri06&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
-</div>
-
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Poojasri06&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&height=400" /></div>
 ---
 
 ## 🏆 Trophy Wall
