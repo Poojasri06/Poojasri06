@@ -22,8 +22,8 @@
 ```python
 class PoojaSriKumar:
     def __init__(self):
-        self.name        = "Pooja Sri Kumar"
-        self.location    = "Tiruchengode, Tamil Nadu, India"
+        self.name        = "PoojaSri Kumar"
+        self.location    = "Coimbatore, Tamil Nadu, India"
         self.degree      = "B.Sc. Artificial Intelligence & Machine Learning"
         self.college     = "Vivekanandha College of Arts & Science for Women"
         self.brand       = "Founder @ IGNIQ Solutions (AI/ML Freelance)"
