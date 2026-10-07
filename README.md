@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pooja%20Sri%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%2FML%20Engineer%20%7C%20Computer%20Vision%20%7C%20LLM%20%26%20Agent%20Tooling%20%7C%20Founder%20%40%20IGNIQ%20Solutions&descAlignY=62&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=PoojaSri%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%2FML%20Engineer%20%7C%20Computer%20Vision%20%7C%20LLM%20%26%20Agent%20Tooling%20%7C%20Founder%20%40%20IGNIQ%20Solutions&descAlignY=62&descSize=16" />
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
